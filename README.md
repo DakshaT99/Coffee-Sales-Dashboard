@@ -10,19 +10,28 @@ This repository features a comprehensive data analysis project focused on the re
 The primary goal of this project was to analyze coffee sales data over a four-year period (2019–2022) to identify key growth drivers. Specifically, the dashboard aims to:
 
 Visualize Sales Trends: Track the performance of different coffee bean types (Arabica, Excelsa, Liberica, and Robusta) over time.
+
 Customer Insights: Highlight top-spending customers to facilitate loyalty program evaluations.
+
 Geographic Analysis: Identify the highest-performing markets across the United States, Ireland, and the United Kingdom.
+
 Interactive Exploration: Allow users to filter data by roast type, package size, and loyalty program status for granular analysis.
 
 ## Tools Used
 XLOOKUP & Index-Match: Employed to populate transactional data from reference tables.
+
 Pivot Tables: Used to aggregate data for time-series and categorical analysis.
+
 Dynamic Slicers & Timelines: Integrated to create an interactive user experience.
+
 Data Formatting: Applied custom themes and conditional formatting for a professional aesthetic.
 
 ## Learnings
 Advanced Data Modeling: Gained proficiency in structuring relational data within Excel to ensure seamless updates and accurate reporting.
+
 UI/UX Design in Reports: Learned how to utilize white space, consistent color palettes (using a coffee-themed aesthetic), and logical alignment to make complex data easily digestible.
+
 Time-Series Analysis: Developed insights into seasonal fluctuations and long-term sales cycles by managing date hierarchies.
+
 Strategic Thinking: Learned how to translate raw numbers into actionable business metrics, such as identifying that specific "Roast Types" or "Package Sizes" dominate certain regional markets.
 
