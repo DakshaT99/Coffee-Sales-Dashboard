@@ -4,6 +4,8 @@ An interactive Excel dashboard for global coffee sales analysis (2019-2022) feat
 <img width="1046" height="592" alt="Capture" src="https://github.com/user-attachments/assets/3caeefa5-0d2a-4e47-87a4-f30fff1f08a4" />
 This repository features a comprehensive data analysis project focused on the retail coffee industry. Using a dataset containing thousands of transactions, I transformed raw sales data into a professional, interactive dashboard. This tool provides a bird’s-eye view of sales trends, customer behavior, and product performance, enabling data-driven decision-making for inventory management and marketing strategies.
 
+{https://github.com/DakshaT99/Coffee-Sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.xlsx}Excel
+
 ## Objectives
 The primary goal of this project was to analyze coffee sales data over a four-year period (2019–2022) to identify key growth drivers. Specifically, the dashboard aims to:
 
